@@ -8,7 +8,6 @@ function notFoundError(id) {
 }
 
 // GET /api/tasks
-// Query params: priority, status, search, sort, page, limit
 export const getTasks = asyncHandler(async (req, res) => {
   const { priority, status, search, sort = "dueDate", page = 1, limit = 50 } = req.query;
 
