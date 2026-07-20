@@ -2,8 +2,12 @@
 
 A simple task manager: React (Vite) frontend + Express/MongoDB REST API.
 
-![Node](https://img.shields.io/badge/node-%3E%3D18-green)
-![License](https://img.shields.io/badge/license-ISC-blue)
+<img width="1917" height="876" alt="Screenshot 2026-07-20 152047" src="https://github.com/user-attachments/assets/19ff52d4-e7b8-4db6-93dc-152924a39798" />
+
+
+<img width="1917" height="870" alt="Screenshot 2026-07-20 152027" src="https://github.com/user-attachments/assets/89080b93-9a97-4576-b7a9-7ff56db9948f" />
+
+
 
 ## Features
 
